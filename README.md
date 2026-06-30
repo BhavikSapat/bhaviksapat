@@ -1,27 +1,149 @@
-<h1 align="center">Hi 👋, I'm Bhavik Sapat</h1>
-<h3 align="center">Curious about systems, technology, design, and the future.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaviksapat&label=Profile%20views&color=0e75b6&style=flat" alt="bhaviksapat" /> </p>
+# 👋 Hi, I'm Bhavik Sapat
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat" alt="bhaviksapat" /></a> </p>
+### Computer Engineering Student
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Designing.;Building.;Learning.;React+%7C+Next.js+%7C+Electron.;Turning+Ideas+Into+Software." />
 
-- 🌱 I’m currently learning **Electron**
+---
 
-- 📫 How to reach me **sapatbhavik101@gmail.com**
+### 🚀 Building Modern Web & Desktop Applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhaviksapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaviksapat" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavik.sapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavik.sapat" height="30" width="40" /></a>
+</div>
+
+<br>
+
+## 💡 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Passionate about Software Development
+- ⚡ Currently learning **Electron**, **TypeScript**, and **Next.js**
+- 🎯 Interested in Web Development, Desktop Applications, UI/UX & AI
+- 🌱 Learning something new every day
+- 🚀 Goal: Build products that solve real-world problems
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaviksapat&show_icons=true&locale=en&layout=compact" alt="bhaviksapat" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,electron" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaviksapat&show_icons=true&locale=en" alt="bhaviksapat" /></p>
+### Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaviksapat&" alt="bhaviksapat" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+[![Bhavik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🚀 Currently Learning
+
+- ⚛️ React Ecosystem
+- ▲ Next.js
+- ⚡ Electron
+- 🔷 TypeScript
+- 🎨 Better UI Design
+- 🧠 Software Architecture
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio | Personal Portfolio Website |
+| ⚛️ React Projects | React Practice Projects |
+| ▲ Next.js | Full Stack Next.js Applications |
+| ⚡ Electron | Desktop Applications |
+| 📚 DSA | Data Structures & Algorithms |
+| 💡 Mini Projects | Small Ideas turned into Apps |
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master React
+- ✅ Master Next.js
+- 🔄 Learn Electron deeply
+- 🔄 Improve TypeScript
+- 🔄 Learn Backend Development
+- 🔄 Contribute to Open Source
+- 🔄 Build 10+ Real Projects
+- 🔄 Get Internship
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:sapatbhavik101@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+
+---
+
+<div align="center">
+
+### ⭐ Turning Ideas Into Software
+
+*"Every project starts with curiosity and grows through consistency."*
+
+</div>
