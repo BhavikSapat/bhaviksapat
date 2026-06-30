@@ -13,7 +13,7 @@ Building modern web experiences and desktop applications.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/bhaviksapat/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
@@ -21,7 +21,7 @@ Building modern web experiences and desktop applications.
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 
-  <a href="YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/bhavik.sapat/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 
@@ -71,19 +71,16 @@ Turn ideas into products that people enjoy using.
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux"/>
 </p>
 
+/*
 ## ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
-
+*/
 > Currently learning these technologies.
 
 ## 🗄 Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
