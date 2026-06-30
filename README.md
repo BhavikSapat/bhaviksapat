@@ -1,149 +1,154 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Bhavik%20Sapat&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20React%20•%20Next.js%20•%20Electron&descAlignY=58"/>
+</p>
 
-# 👋 Hi, I'm Bhavik Sapat
+<h1 align="center">Hi 👋, I'm Bhavik Sapat</h1>
 
-### Computer Engineering Student
+<h3 align="center">
+Building modern web experiences and desktop applications.
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Designing.;Building.;Learning.;React+%7C+Next.js+%7C+Electron.;Turning+Ideas+Into+Software." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Designing+Ideas.;Writing+Code.;Building+Products.;Always+Learning." />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="mailto:sapatbhavik101@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+
+  <a href="YOUR_INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+
+  <a href="https://github.com/bhaviksapat">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhaviksapat&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-### 🚀 Building Modern Web & Desktop Applications
+# 💫 About Me
 
-</div>
+```text
+🎓 Computer Engineering Student
 
-<br>
+💻 Passionate about building software that solves
+real-world problems.
 
-## 💡 About Me
+⚡ Currently exploring React, Next.js,
+Electron and TypeScript.
 
-- 🎓 Computer Engineering Student
-- 💻 Passionate about Software Development
-- ⚡ Currently learning **Electron**, **TypeScript**, and **Next.js**
-- 🎯 Interested in Web Development, Desktop Applications, UI/UX & AI
-- 🌱 Learning something new every day
-- 🚀 Goal: Build products that solve real-world problems
+🧠 Interested in AI, System Design,
+Desktop Applications and Startups.
+
+🚀 My goal is simple:
+
+Turn ideas into products that people enjoy using.
+```
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python"/>
 </p>
 
-### Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,electron" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux"/>
 </p>
 
-### Database
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Tools
+> Currently learning these technologies.
+
+## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+## 🛠 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,npm"/>
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="...stats"/>
+  <img height="165" src="...languages"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="...streak"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="...activity graph"/>
+</p>
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-[![Bhavik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://github.com/bhaviksapat)
-
----
-
-## 🚀 Currently Learning
-
-- ⚛️ React Ecosystem
-- ▲ Next.js
-- ⚡ Electron
-- 🔷 TypeScript
-- 🎨 Better UI Design
-- 🧠 Software Architecture
-
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌐 Portfolio | Personal Portfolio Website |
-| ⚛️ React Projects | React Practice Projects |
-| ▲ Next.js | Full Stack Next.js Applications |
-| ⚡ Electron | Desktop Applications |
-| 📚 DSA | Data Structures & Algorithms |
-| 💡 Mini Projects | Small Ideas turned into Apps |
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master React
-- ✅ Master Next.js
-- 🔄 Learn Electron deeply
-- 🔄 Improve TypeScript
-- 🔄 Learn Backend Development
-- 🔄 Contribute to Open Source
-- 🔄 Build 10+ Real Projects
-- 🔄 Get Internship
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:sapatbhavik101@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🚀 Current Focus
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+- ⚛️ Building React Applications
+- ▲ Learning Next.js
+- ⚡ Building Desktop Apps using Electron
+- 🔷 Improving TypeScript
+- 🎨 Learning Better UI/UX
+- 🌍 Preparing for Open Source Contributions
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+██████████░░ Learn Electron
+
+████████░░░ TypeScript
+
+██████░░░░░ Backend Development
+
+████░░░░░░░ Open Source
+
+██░░░░░░░░░ Internship
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Turning Ideas Into Software
+## ⭐ Turning Ideas Into Software
 
-*"Every project starts with curiosity and grows through consistency."*
+> *"Code is only valuable when it solves a real problem."*
+
+Thanks for stopping by ❤️
 
 </div>
