@@ -71,13 +71,6 @@ Turn ideas into products that people enjoy using.
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux"/>
 </p>
 
-/*
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-*/
 > Currently learning these technologies.
 
 ## 🗄 Database
