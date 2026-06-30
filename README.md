@@ -77,7 +77,7 @@
 
 ## 📊 Contribution Graph
 
-[![Bhavik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Bhavik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://github.com/bhaviksapat)
 
 ---
 
