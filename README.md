@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/bhaviksapat/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-
+<t>
   <a href="mailto:sapatbhavik101@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
