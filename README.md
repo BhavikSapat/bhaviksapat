@@ -30,23 +30,29 @@
 
 ---
 
-# 💫 About Me
+# ⚙️ Developer Configuration
 
 ```text
-🎓 Computer Engineering Student
-
-💻 Passionate about building software that solves
-real-world problems.
-
-⚡ Currently exploring React, Next.js,
-Electron and TypeScript.
-
-🧠 Interested in AI, System Design,
-Desktop Applications and Startups.
-
-🚀 My goal is simple:
-
-Turn ideas into products that people enjoy using.
+{
+  "name": "Bhavik Sapat",
+  "role": "Computer Engineering Student",
+  "building": [
+    "Portfolio",
+    "Electron Apps"
+  ],
+  "learning": [
+    "React",
+    "Next.js",
+    "TypeScript"
+  ],
+  "interests": [
+    "Artificial Intelligence",
+    "Desktop Applications",
+    "UI/UX",
+    "Startups"
+  ],
+  "goal": "Turn ideas into software people enjoy using."
+}
 ```
 
 ---
@@ -103,10 +109,6 @@ Turn ideas into products that people enjoy using.
 
 <div align="center">
 
-## ⭐ Turning Ideas Into Software
-
-> *"Code is only valuable when it solves a real problem."*
-
-Thanks for spending time here !
+> *"See you in the next commit."*
 
 </div>
