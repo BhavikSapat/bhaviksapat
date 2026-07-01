@@ -10,15 +10,15 @@
   <a href="https://www.linkedin.com/in/bhaviksapat/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-<t>
+<tab>
   <a href="mailto:sapatbhavik101@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-
+<tab>
   <a href="https://www.instagram.com/bhavik.sapat/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-
+<tab>
   <a href="https://github.com/bhaviksapat">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
