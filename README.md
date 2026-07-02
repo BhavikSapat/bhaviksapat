@@ -104,17 +104,14 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhaviksapat/bhaviksapat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-
 <div align="center">
 
-> *"See you in the next commit."*
+> _"See you in the next commit."_
 
 </div>
