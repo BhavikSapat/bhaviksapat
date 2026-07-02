@@ -88,26 +88,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guptasachin9422-max&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasachin9422-max&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaviksapat&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaviksapat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=guptasachin9422-max&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=bhaviksapat&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptasachin9422-max&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaviksapat&theme=tokyo-night"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=guptasachin9422-max&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guptasachin9422-max/guptasachin9422-max/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/bhaviksapat/bhaviksapat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
