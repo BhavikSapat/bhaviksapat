@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BhavikSapat&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
