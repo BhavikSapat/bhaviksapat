@@ -109,6 +109,6 @@
 
 <div align="center">
 
-> _"See you in the next commit."_
+ _"See you in the next commit."_
 
 </div>
