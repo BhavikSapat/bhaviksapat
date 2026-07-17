@@ -58,7 +58,6 @@
 ---
 
 # ⚡ Tech Stack
-# ⚡ Tech Stack
 
 ## 💻 Programming Languages
 
