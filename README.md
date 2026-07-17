@@ -37,19 +37,12 @@
   "name": "Bhavik Sapat",
   "role": "Computer Engineering Student",
   "building": [
-    "Portfolio",
-    "Electron Apps"
+    "Next.js App"
   ],
   "learning": [
     "React",
     "Next.js",
     "TypeScript"
-  ],
-  "interests": [
-    "Artificial Intelligence",
-    "Desktop Applications",
-    "UI/UX",
-    "Startups"
   ],
   "goal": "Turn ideas into software people enjoy using."
 }
@@ -131,13 +124,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
