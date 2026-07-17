@@ -134,7 +134,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaviksapat&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
