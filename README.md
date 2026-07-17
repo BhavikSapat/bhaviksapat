@@ -131,30 +131,6 @@
 
 ---
 
-## 📡 APIs & Web
-
-<p>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fetch_API-FFCA28?style=for-the-badge"/>
-</p>
-
----
-
-## 🧩 Other Skills
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Structures-43A047?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-F4511E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-3949AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git_Workflow-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLI-Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
