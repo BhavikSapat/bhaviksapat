@@ -40,9 +40,10 @@
     "Next.js App"
   ],
   "learning": [
-    "React",
+    "React.js",
     "Next.js",
-    "TypeScript"
+    "TypeScript",
+    "Electron"
   ],
   "goal": "Turn ideas into software people enjoy using."
 }
@@ -65,7 +66,6 @@
 </p>
 
 ---
-
 ## 🌐 Frontend Development
 
 <p>
@@ -129,14 +129,6 @@
 <p align="center">
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhaviksapat&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhaviksapat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bhaviksapat&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaviksapat&theme=tokyo-night"/>
 </p>
 
 <p align="center">
