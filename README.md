@@ -107,19 +107,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
----
-
-## 🎨 UI / UX & Design
-
-<p>
-  <img src="https://img.shields.io/badge/UI_Design-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UX_Design-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prototyping-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
