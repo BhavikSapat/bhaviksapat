@@ -45,7 +45,6 @@
     "TypeScript",
     "Electron"
   ],
-  "goal": "Turn ideas into software people enjoy using."
 }
 ```
 
