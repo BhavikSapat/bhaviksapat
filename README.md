@@ -113,11 +113,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhaviksapat&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhaviksapat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/bhaviksapat/bhaviksapat/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
