@@ -1,29 +1,129 @@
- **/ techStack**
+# `bhavik-sapat`
 
-  **/ languages**
+```text
+bhavik-sapat/
+│
+├── app/
+│   ├── about/
+│   │   └── page.tsx
+│   │
+│   ├── work/
+│   │   └── page.tsx
+│   │
+│   └── contact/
+│       └── page.tsx
+│
+├── components/
+│   ├── frontend/
+│   ├── backend/
+│   └── tools/
+│
+├── projects/
+│   ├── car-showroom/
+│   ├── dnyanai/
+│   └── project-vault/
+│
+├── experience/
+│   └── dextero/
+│
+└── README.md
+```
 
-        `C` `C++` `Java` `JavaScript` `TypeScript` `Python`
+### `app/about/page.tsx`
 
-   **/ frontend**
+```tsx
+const developer = {
+  name: "Bhavik Sapat",
+  role: "Frontend Developer",
+  education: "Computer Engineering Student",
+};
+```
 
-        `HTML5` `CSS3` `ReactJs` `NextJs` `Tailwind CSS` `Redux Toolkit`
+I build web applications with a focus on clean interfaces, practical
+functionality and maintainable code.
 
-   **/ backend**
+Currently working with **React, Next.js and TypeScript** while exploring
+full-stack development.
 
-         `REST APIs`
+---
 
-   **/ database**
+### `components/frontend/`
 
-        `MySQL` 
+```text
+HTML | CSS | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Redux Toolkit
+```
 
-   **/ tools**
+### `components/backend/`
 
-        `Git` `GitHub` `VS Code` `Figma` `Canva`
+```text
+Java
+Spring Boot
+REST APIs
+```
 
-   **/ deployment**
+### `components/tools/`
 
-        `Vercel` `Netlify` 
+```text
+Git
+GitHub
+VS Code
+Figma
+Vercel
+Netlify
+Railway
+```
 
- **/ findMe**
+---
 
-   [LinkedIn](https://www.linkedin.com/in/bhaviksapat/) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:sapatbhavik101@gmail.com)
+### `projects/`
+
+```text
+projects/
+│
+├── car-showroom/
+│   └── full-stack management system
+│
+├── dnyanai/
+│   └── education institute website
+│
+└── project-vault/
+    └── project management platform
+```
+
+---
+
+### `experience/dextero/`
+
+```text
+role        → Frontend Developer Intern
+focus       → React / Next.js
+work        → production web applications
+```
+
+---
+
+### `app/contact/page.tsx`
+
+```tsx
+const contact = {
+  github: "github.com/BhavikSapat",
+  linkedin: "YOUR_LINKEDIN",
+  portfolio: "YOUR_PORTFOLIO",
+};
+```
+
+---
+
+### `app/not-found.tsx`
+
+```text
+404
+
+still learning.
+still building.
+still shipping.
+```
+
+---
+
+<sub>built with curiosity · powered by code</sub>
