@@ -1,31 +1,31 @@
-### / stack
+**/ techStack**
 
-**/ Languages**
+    **/ languages**
 
-`C` `C++` `Java` `JavaScript` `TypeScript` `Python`
+        `C` `C++` `Java` `JavaScript` `TypeScript` `Python`
 
-##**/ Frontend**
+    **/ frontend**
 
-`HTML5` `CSS3` `ReactJs` `NextJs` `Tailwind CSS` `Redux Toolkit`
+        `HTML5` `CSS3` `ReactJs` `NextJs` `Tailwind CSS` `Redux Toolkit`
 
-**/ Backend**
+    **/ backend**
 
- `REST APIs`
+         `REST APIs`
 
-**/ Database**
+    **/ database**
 
-`MySQL` 
+        `MySQL` 
 
-**/ Tools**
+    **/ tools**
 
-`Git` `GitHub` `VS Code` `Figma` `Canva`
+        `Git` `GitHub` `VS Code` `Figma` `Canva`
 
-**/ Deployment**
+    **/ deployment**
 
-`Vercel` `Netlify` 
+        `Vercel` `Netlify` 
 
 ---
 
-### / find me
+**/ findMe**
 
-[LinkedIn](https://www.linkedin.com/in/bhaviksapat/) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:sapatbhavik101@gmail.com)
+    [LinkedIn](https://www.linkedin.com/in/bhaviksapat/) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:sapatbhavik101@gmail.com)
