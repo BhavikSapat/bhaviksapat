@@ -1,26 +1,26 @@
 ### / stack
 
-**Languages**
+##**/Languages**
 
 `C` `C++` `Java` `JavaScript` `TypeScript` `Python`
 
-**Frontend**
+##**/Frontend**
 
 `HTML5` `CSS3` `ReactJs` `NextJs` `Tailwind CSS` `Redux Toolkit`
 
-**Backend**
+**/Backend**
 
  `REST APIs`
 
-**Database**
+**/Database**
 
 `MySQL` 
 
-**Tools**
+**/Tools**
 
 `Git` `GitHub` `VS Code` `Figma` `Canva`
 
-**Deployment**
+**/Deployment**
 
 `Vercel` `Netlify` 
 
