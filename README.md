@@ -1,6 +1,6 @@
-**/ techStack**
+ **/ techStack**
 
-   **/ languages**
+  **/ languages**
 
         `C` `C++` `Java` `JavaScript` `TypeScript` `Python`
 
@@ -24,6 +24,6 @@
 
         `Vercel` `Netlify` 
 
-**/ findMe**
+ **/ findMe**
 
    [LinkedIn](https://www.linkedin.com/in/bhaviksapat/) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:sapatbhavik101@gmail.com)
