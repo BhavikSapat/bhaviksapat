@@ -19,7 +19,7 @@
 |
 ├── .gitignore/
 │   └── .env*
-|        └── `SECRETE_URL=https://bitbusters.netlify.app`
+|        └── `SECRETE_SITE=[BITBUSTERS](https://bitbusters.netlify.app)`
 │
 └── README.md
 ```
