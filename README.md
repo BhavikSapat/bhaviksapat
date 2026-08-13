@@ -1,10 +1,6 @@
 <pre>
 │
 ├── app/
-│   ├── about/
-│   │   └── page.tsx
-│   │       └── `Exploring Unknown.`
-│   │
 │   ├── tech/
 │   │   ├── frontend/
 │   │   │   └── page.tsx
@@ -19,7 +15,7 @@
 │   │           └── `GIT GITHUB NETLIFY VERCEL VSCODE FIGMA CANVA`
 │   │
 │   └── page.tsx
-│       └── `Hello!`
+│       └── `Exploring Unknown.`
 │
 ├── .gitignore/
 │   └── .env*
@@ -27,3 +23,5 @@
 └── .env.local
      └── `SECRET_SITE=<a href="https://bitbusters.netlify.app" target="_blank">BITBUSTERS</a>`
 </pre>
+
+<img src="https://komarev.com/ghpvc/?username=bhaviksapat&label=Views&color=58A6FF&style=flat-square"/>
