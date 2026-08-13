@@ -25,5 +25,5 @@
 │   └── .env*
 │
 └── .env.local
-     └── `SECRET_SITE=<a href="https://bitbusters.netlify.app">BITBUSTERS</a>`
+     └── `SECRET_SITE=<a href="https://bitbusters.netlify.app" target="_blank">BITBUSTERS</a>`
 </pre>
