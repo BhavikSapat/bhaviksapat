@@ -1,25 +1,29 @@
-```text
+<pre>
 │
 ├── app/
 │   ├── about/
 │   │   └── page.tsx
-|   |       └── `Exploring Unknown.`
+│   │       └── `Exploring Unknown.`
+│   │
 │   ├── tech/
-│   |   ├── frontend/
-│   │   |   └── page.tsx
-|   |   |       └── `NEXTJS` `REACTJS` `TYPESCRIPT` `TAILWIND` `ELECTRON` `HTML` `CSS`
-│   |   ├── backend/
-│   │   |   └── page.tsx
-|   |   |       └── `REST API` `// Taking APIs endpoints from backend dev only`
-│   |   └── tools/
-│   |       └── page.tsx
-|   |           └──  `GIT` `GITHUB` `NETLIFY` `VERCEL` `VSCODE` `FIGMA` `CANVA`
+│   │   ├── frontend/
+│   │   │   └── page.tsx
+│   │   │       └── `NEXTJS REACTJS TYPESCRIPT TAILWIND ELECTRON HTML CSS`
+│   │   │
+│   │   ├── backend/
+│   │   │   └── page.tsx
+│   │   │       └── `REST API INTEGRATION`
+│   │   │
+│   │   └── tools/
+│   │       └── page.tsx
+│   │           └── `GIT GITHUB NETLIFY VERCEL VSCODE FIGMA CANVA`
+│   │
 │   └── page.tsx
-|       └── `Hello!`
-|
+│       └── `Hello!`
+│
 ├── .gitignore/
 │   └── .env*
-|        └── `SECRETE_SITE=`[BITBUSTERS](https://bitbusters.netlify.app)
 │
-└── README.md
-```
+└── .env.local
+     └── `SECRET_SITE=<a href="https://bitbusters.netlify.app">BITBUSTERS</a>`
+</pre>
